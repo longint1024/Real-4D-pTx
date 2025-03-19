@@ -1,10 +1,12 @@
 # Real-4D-pTx-SPSP
 This is a matlab toolbox for designing Real-4D parallel transmit (pTx) spatial spectral (SPSP) RF pulses for high and ultra-high field MRI.
-You may run the demo script, `demo.m`, to grab an idea of how this toolbox can be used to design pTx SPSP pulses to create robust uniform water-selective excitation across the entire human brain at 7 Tesla. 
+You may run the demo script, `demo.m`, to grab an idea of how this toolbox can be used to design pTx SPSP pulses to create robust uniform slab-selective water excitation at 7 Tesla. 
 
 If you use the toolbox, please consider citing the following paper:
 
 Xin Shao, Zhe Zhang, Wen Zhong, Hua Guo, Kamil Ugurbil, Xiaoping Wu. Real-4D parallel transmission spatial spectral pulse design for slab-selective uniform water-selective excitation: demonstration in the human brain at 7 Tesla. Under review.
+
+Please refer to the hardware specifications in the paper above if you wanna measure the running time, especially noting that you need at least 32GB of memory to run this demo.
 
 
 ### Copyright & License Notice
