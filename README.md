@@ -4,7 +4,7 @@ You may run the demo script, `demo.m`, to grab an idea of how this toolbox can b
 
 If you use the toolbox, please consider citing the following paper:
 
-Xin Shao, Zhe Zhang, Wen Zhong, Hua Guo, Kamil Ugurbil, Xiaoping Wu. Comprehensive 4D parallel transmission spatial-spectral pulse design for slab-selective uniform water-selective excitation: demonstration in the human brain at 7 Tesla. MRM 2025. In press.
+Xin Shao, Zhe Zhang, Wen Zhong, Hua Guo, Kamil Ugurbil, Xiaoping Wu. Comprehensive 4D parallel transmission spatial-spectral pulse design for slab-selective uniform water-selective excitation: demonstration in the human brain at 7 Tesla. Magnetic Resonance in Medicine (2025): 1–11, https://doi.org/10.1002/mrm.70183.
 
 Please refer to the hardware specifications in the paper above if you wanna measure the running time, especially noting that you need at least 32GB of memory to run this demo.
 
